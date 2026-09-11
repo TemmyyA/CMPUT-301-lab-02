@@ -1,1 +1,11 @@
-# CMPUT-301-lab-02
+# CMPUT 301: Lab 2 Participation Exercise
+
+## Student Details
+- **Full Name:** Oluwatimileyin ALamu
+- **CCID:** oalamu
+
+## References and Resources
+N/A
+
+## Verbal Collaboration
+N/A
